@@ -1,0 +1,1 @@
+A simple weather app to fetch weather forecast for given address.
